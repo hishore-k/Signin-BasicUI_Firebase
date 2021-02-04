@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "270317184580",
+    "firebase_url": "https://nursery-store-6116f-default-rtdb.firebaseio.com",
+    "project_id": "nursery-store-6116f",
+    "storage_bucket": "nursery-store-6116f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270317184580:android:4516f9d76855c9af99fe11",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270317184580-7ck7vnsopgthnarpla3k1575jq3ulrv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF4ZRAzlhM6bjQE5uivtUxhVse1SMcyt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270317184580-7ck7vnsopgthnarpla3k1575jq3ulrv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270317184580:android:34447053f0331a6999fe11",
+        "android_client_info": {
+          "package_name": "com.example.nurserystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270317184580-7ck7vnsopgthnarpla3k1575jq3ulrv7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDF4ZRAzlhM6bjQE5uivtUxhVse1SMcyt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270317184580-7ck7vnsopgthnarpla3k1575jq3ulrv7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
